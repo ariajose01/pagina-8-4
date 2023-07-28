@@ -18,21 +18,22 @@ background-repeat: no-repeat;
 }
 .ftecnologia{
 
-    background-image: url("fondo.jpg");
+    background-image: url("fondo2.png");
     
     background-repeat: no-repeat;
     
     }
 
-.img{
+
+.imgtecnologia{
 
 position: relative;
 
- top: 100px;
+ top: 150px;
 
 width: 1000px;
 
-height: 1000px;
+height: 300px;
 
 border-radius: 10px;
 
@@ -42,7 +43,7 @@ background-repeat: no-repeat;
 
 left: 180px;
 
-background-image: url("medellin2.webp");
+background-image: url("tecno.png");
 
 }
 
@@ -116,3 +117,70 @@ color: brown;
     
     
     }
+
+    .textotecno{
+
+        font-size: 30px;
+        
+        text-align: justify;
+        
+        color: rgb(0, 0, 0);
+        
+         
+        
+        }
+
+        .imgtecnologia2{
+
+            position: relative;
+            
+             top: 50px;
+            
+            width: 1000px;
+            
+            height: 300px;
+            
+            border-radius: 10px;
+            
+            background-repeat: no-repeat;
+            
+             
+            
+            left: 180px;
+            
+            background-image: url("imgtecno.png");
+            
+            }
+
+            .textosociales{
+
+                font-size: 25px;
+        
+                text-align: justify;
+                
+                color: rgb(250, 255, 255);
+
+            }
+            
+        .imgsociales1{
+
+            position: relative;
+            
+             top: 50px;
+            
+            width: 1000px;
+            
+            height: 100px;
+            
+            border-radius: 10px;
+            
+            background-repeat: no-repeat;
+            
+             
+            
+            left: 200px;
+            
+            background-image: url("Mapa\ mental\ La\ Condición\ Humana\ \(2\).png");
+        }
+
+        
