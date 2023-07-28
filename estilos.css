@@ -70,13 +70,13 @@ color: brown;
 }
 .contenido{
 
-    height: 280px;
+    height: 200px;
     
     width: 100%;
     
     position: absolute;
     
-    top: 410px;
+    top: 250px;
     
      
     
@@ -136,7 +136,7 @@ color: brown;
             
              top: 50px;
             
-            width: 1000px;
+            width: 1500px;
             
             height: 300px;
             
@@ -149,16 +149,18 @@ color: brown;
             left: 180px;
             
             background-image: url("imgtecno.png");
+
+        
             
             }
 
             .textosociales{
 
-                font-size: 25px;
+                font-size: 30px;
         
                 text-align: justify;
                 
-                color: rgb(250, 255, 255);
+                color: rgb(0, 0, 0);
 
             }
             
@@ -166,21 +168,49 @@ color: brown;
 
             position: relative;
             
-             top: 50px;
-            
-            width: 1000px;
-            
-            height: 100px;
-            
-            border-radius: 10px;
+            float: left;
+             top: 40px;
+
+             width: 10000px;
+                        
+            height: 1000px;
+
+            border-radius: 40px;
             
             background-repeat: no-repeat;
             
-             
-            
-            left: 200px;
+            left: 100px;
             
             background-image: url("Mapa\ mental\ La\ Condición\ Humana\ \(2\).png");
         }
 
         
+        .imgtecnologia3{
+
+            position: relative;
+            
+            top: 50px;
+           
+           width: 1500px;
+           
+           height: 300px;
+           
+           border-radius: 10px;
+           
+           background-repeat: no-repeat;
+           
+           left: 180px;
+           
+           background-image: url("giftecno.mp4");
+ 
+        }
+
+        .textomatematicas{
+
+            font-size: 30px;
+        
+            text-align: justify;
+            
+            color: rgb(0, 0, 0);
+
+        }
