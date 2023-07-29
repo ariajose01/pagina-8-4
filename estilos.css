@@ -11,16 +11,16 @@ margin: 0px;
 
 body{
 
-background-image: url("datos.jpg");
+background-image: url("fondo5.jpg");
 
-background-repeat: no-repeat;
+background-repeat: repeat;
 
 }
 .ftecnologia{
 
-    background-image: url("fondo2.png");
+    background-image: url("fondo5.jpg");
     
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     
     }
 
@@ -124,7 +124,7 @@ color: brown;
         
         text-align: justify;
         
-        color: rgb(0, 0, 0);
+        color: rgb(253, 253, 253);
         
          
         
@@ -160,7 +160,7 @@ color: brown;
         
                 text-align: justify;
                 
-                color: rgb(0, 0, 0);
+                color: rgb(252, 252, 252);
 
             }
             
@@ -185,32 +185,27 @@ color: brown;
         }
 
         
-        .imgtecnologia3{
+       
+        .imgmareligion{
 
             position: relative;
             
-            top: 50px;
-           
-           width: 1500px;
-           
-           height: 300px;
-           
-           border-radius: 10px;
-           
-           background-repeat: no-repeat;
-           
-           left: 180px;
-           
-           background-image: url("giftecno.mp4");
- 
-        }
+            float: left;
+             top: 40px;
 
-        .textomatematicas{
+             width: 10000px;
+                        
+            height: 1000px;
 
-            font-size: 30px;
-        
-            text-align: justify;
+            border-radius: 40px;
             
-            color: rgb(0, 0, 0);
-
+            background-repeat: no-repeat;
+            
+            left: 100px;
+            
+            background-image: url("mapareligion.png");
         }
+
+        
+
+        
