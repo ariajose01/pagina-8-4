@@ -185,27 +185,191 @@ color: brown;
         }
 
         
-       
-        .imgmareligion{
 
-            position: relative;
-            
-            float: left;
-             top: 40px;
+        .contenido{
 
-             width: 10000px;
-                        
-            height: 1000px;
-
-            border-radius: 40px;
+            height: 300px;
+    
+            width: 100%;
             
-            background-repeat: no-repeat;
+            position: absolute;
             
-            left: 100px;
-            
-            background-image: url("mapareligion.png");
+            top: 300px;
+               
         }
+       
+       .imagenmate{
 
-        
+        position: relative;
+            
+         top: 60px;
 
+         width: 500px;
+                    
+        height: 200px;
+
+        border-radius: 10px;
         
+        background-repeat: no-repeat;
+        
+        left: 60px;
+        
+        background-image: url("imagenmate3.avif");
+       }
+        
+        
+       .textomatematicas{
+
+        font-size: 30px;
+        
+        text-align: justify;
+                
+         color: rgb(245, 234, 234);
+       }
+
+
+       .contenedor{
+
+        height: 500px;
+    
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 300px;
+           
+       }
+
+       .imgingles{
+
+        position: relative;
+            
+         top: 60px;
+
+         width: 600px;
+                    
+        height: 500px;
+
+        border-radius: 10px;
+        
+        background-repeat: no-repeat;
+        
+        left: 60px;
+        
+        background-image: url("imgingles.jpg");
+
+       }
+
+
+       .textoingles{
+
+        font-size: 30px;
+        
+        text-align: justify;
+                
+         color: rgb(245, 234, 234);
+
+       }
+
+       .contenedor{
+         
+      
+        height: 700px;
+    
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 500px;
+           
+       }
+
+       .textoetica{
+      
+        font-size: 30px;
+        
+        text-align: justify;
+                
+         color: rgb(245, 234, 234);
+
+
+       }
+
+      .imagenbiologia{
+
+        position: relative;
+            
+        top: 60px;
+
+        width: 700px;
+                   
+       height: 500px;
+
+       border-radius: 10px;
+       
+       background-repeat: no-repeat;
+       
+       left: 60px;
+       
+       background-image: url("imagenbiologia.jpg");
+
+      }
+
+      .textobiologia{
+
+        font-size: 30px;
+        
+        text-align: justify;
+                
+         color: rgb(245, 234, 234);
+      }
+
+   .contenido{
+
+    height: 700px;
+    
+    width: 100%;
+    
+    position: absolute;
+    
+    top: 500px;
+   }
+
+   .textoreligion{
+
+    font-size: 30px;
+        
+     text-align: justify;
+                
+     color: rgb(245, 234, 234);
+
+   }
+
+   .textoreligion2{
+
+    font-size: 30px;
+        
+     text-align: justify;
+                
+     color: rgb(223, 218, 218);
+
+   }
+
+.imagenreligion{
+
+    position: relative;
+            
+    top: 60px;
+
+    width: 1000px;
+               
+   height:800px;
+
+   border-radius: 10px;
+   
+   background-repeat: no-repeat;
+   
+   left: 60px;
+   
+   background-image: url("imagenreligion.png");
+}
