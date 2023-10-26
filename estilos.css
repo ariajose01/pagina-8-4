@@ -373,3 +373,26 @@ color: brown;
    
    background-image: url("imagenreligion.png");
 }
+
+.contenido{
+
+  height: 300px;
+
+  width: 100%;
+  
+  position: absolute;
+  
+  top: 300px;
+     
+}
+
+
+.textomatematicas{
+
+  font-size: 30px;
+      
+   text-align: justify;
+              
+   color: rgb(245, 237, 237);
+
+ }
