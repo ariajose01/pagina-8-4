@@ -396,3 +396,22 @@ color: brown;
    color: rgb(245, 237, 237);
 
  }
+
+ .imagentrinomio{
+
+  position: relative;
+          
+  top: 60px;
+
+  width: 1000px;
+             
+ height:800px;
+
+ border-radius: 10px;
+ 
+ background-repeat: no-repeat;
+ 
+ left: 60px;
+ 
+ background-image: url("imagenmate3.avif");
+}
