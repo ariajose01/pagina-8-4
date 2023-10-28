@@ -280,7 +280,6 @@ color: brown;
         
         position: absolute;
         
-        top: 500px;
            
        }
 
@@ -415,3 +414,14 @@ color: brown;
  
  background-image: url("imagenmate3.avif");
 }
+
+
+.textoingles1{
+
+  font-size: 30px;
+      
+   text-align: justify;
+              
+   color: rgb(245, 237, 237);
+
+ }
