@@ -194,7 +194,6 @@ color: brown;
             
             position: absolute;
             
-            top: 300px;
                
         }
        
@@ -279,7 +278,6 @@ color: brown;
         width: 100%;
         
         position: absolute;
-        
            
        }
 
@@ -425,3 +423,16 @@ color: brown;
    color: rgb(245, 237, 237);
 
  }
+
+ .textoingles1{
+
+  font-size: 30px;
+      
+   text-align: justify;
+              
+   color: rgb(255, 255, 255);
+
+ }
+
+ 
+ 
