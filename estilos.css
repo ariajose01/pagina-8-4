@@ -270,6 +270,17 @@ color: brown;
 
        }
 
+       .textoingles1{
+
+        font-size: 30px;
+            
+         text-align: justify;
+                    
+         color: rgb(255, 255, 255);
+      
+       }
+
+
        .contenedor{
          
       
@@ -434,5 +445,14 @@ color: brown;
 
  }
 
- 
+ .textotecnologia{
+
+  font-size: 30px;
+      
+   text-align: justify;
+              
+   color: rgb(255, 255, 255);
+
+ }
+
  
